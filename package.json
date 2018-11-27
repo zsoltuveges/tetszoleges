@@ -1,0 +1,22 @@
+{
+  "name": "springtab_test",
+  "version": "1.0.0",
+  "description": "Homework for the springtab backend position",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsoltuveges/tetszoleges.git"
+  },
+  "keywords": [
+    "springtab"
+  ],
+  "author": "Zsolt Uveges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zsoltuveges/tetszoleges/issues"
+  },
+  "homepage": "https://github.com/zsoltuveges/tetszoleges#readme"
+}
