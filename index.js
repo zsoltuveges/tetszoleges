@@ -9,4 +9,10 @@ app.get('/helloworld', (req, res) => {
     );
 });
 
+app.get('/secondroute', (req, res) => {
+    res.send(
+        {message: 'success'}
+    )
+});
+
 app.listen(3000, () => console.log('Server is listening on port 3000'));
